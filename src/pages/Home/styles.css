@@ -1,0 +1,17 @@
+.Home {
+  background-color: hsl(218, 23%, 16%);
+  display: grid;
+  place-content: center;
+  min-height: 100vh;
+  padding: .8rem;
+}
+
+.attribution {
+  color: hsl(193, 38%, 86%);
+	font-size: .7rem;
+  margin-top: 4rem;
+	text-align: center;
+}
+.attribution a {
+	color: hsl(228, 45%, 44%);
+}
